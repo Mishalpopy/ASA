@@ -1,0 +1,244 @@
+[
+    {
+        "headerInfo": [
+            {
+                "id": 1,
+                "icon": "icofont-clock-time",
+                "title": "working hours",
+                "info": "MON - FRI: 9.00 - 21.00"
+            },
+            {
+                "id": 2,
+                "icon": "icofont-ui-call",
+                "title": "hotline 24/7",
+                "info": "+91 9846 33 89 00"
+            },
+            {
+                "id": 3,
+                "icon": "icofont-envelope",
+                "title": "email us",
+                "info": "info@asaclinic.com"
+            }
+        ]
+    },
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "./img/slider/slide1.jpg",
+                "subTitle": "feel the difference with us",
+                "title": "Your Health <span>Is</span><span class='d-block'>Our Priority</span>"
+            },
+            {
+                "id": 2,
+                "backgroundImage": "./img/slider/slide2.jpg",
+                "subTitle": "feel the difference with us",
+                "title": "Your Health <span>Is</span><span class='d-block'>Our Priority</span>"
+            }
+        ]
+    },
+    {
+        "healthFeature": [
+            {
+                "id": 1,
+                "icon": "icon icofont-stethoscope-alt",
+                "title": "Diagnose",
+                "subTitle": "Examination & Diagnosis"
+            },
+            {
+                "id": 2,
+                "icon": "icon icofont-brain-alt",
+                "title": "Treatment",
+                "subTitle": "Treatment of the disease"
+            },
+            {
+                "id": 3,
+                "icon": "icon icofont-paralysis-disability",
+                "title": "Care Healthy",
+                "subTitle": "Care and recuperation"
+            }
+        ]
+    },
+    {
+        "medicalFeature": [
+            {
+                "id": 1,
+                "icon": "icofont-prescription",
+                "title": "Medical Counseling",
+                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+            },
+            {
+                "id": 2,
+                "icon": "icofont-doctor-alt",
+                "title": "Top Level Doctors",
+                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+            },
+            {
+                "id": 3,
+                "icon": "icofont-microscope",
+                "title": "Medical Facilites",
+                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+            },
+            {
+                "id": 4,
+                "icon": "icofont-ambulance-cross",
+                "title": "24 Hours Services",
+                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+            },
+            {
+                "id": 5,
+                "icon": "icofont-blood",
+                "title": "Personal Services",
+                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+            },
+            {
+                "id": 6,
+                "icon": "icofont-paralysis-disability",
+                "title": "Dedicated Patient Care",
+                "excerpt": "Lorem ipsum dolor sit amet, consect adipisicing elit vero. Donec ultri sollicitudin lacus"
+            }
+        ]
+    },
+    {
+        "team": [
+            {
+                "id": 1,
+                "image": "./img/team/01.jpg",
+                "name": "Dr. Helen Willmore",
+                "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapi euismod, auctor orci ut."
+            },
+            {
+                "id": 2,
+                "image": "./img/team/02.jpg",
+                "name": "Dr. Robert David",
+                "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapi euismod, auctor orci ut."
+            },
+            {
+                "id": 3,
+                "image": "./img/team/03.jpg",
+                "name": "Dr. Kristina Castle",
+                "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut sapi euismod, auctor orci ut."
+            }
+        ]
+    },
+    {
+        "testimonial": [
+            {
+                "id": 1,
+                "image": "./img/testimonial/01.jpg",
+                "excerpt": "“It’s been an absolute pleasure to work with hope, <br /> their response to our brief exceeded expectations and the execution was efficient, professional and very reassuring. I’d fully recommend theme.”",
+                "name": "Steven Gerrard",
+                "location": "Golden Lotus Apartment, Brooklyn, USA"
+            },
+            {
+                "id": 2,
+                "image": "./img/testimonial/02.jpg",
+                "excerpt": "“It’s been an absolute pleasure to work with hope, <br /> their response to our brief exceeded expectations and the execution was efficient, professional and very reassuring. I’d fully recommend theme.”",
+                "name": "Kristina Castle",
+                "location": "Golden Lotus Apartment, HasThemes, BNA"
+            }
+        ]
+    },
+    {
+        "brand": [
+            {
+                "id": 1,
+                "image": "./img/brand-logo/01.png"
+            },
+            {
+                "id": 2,
+                "image": "./img/brand-logo/02.png"
+            },
+            {
+                "id": 3,
+                "image": "./img/brand-logo/03.png"
+            },
+            {
+                "id": 4,
+                "image": "./img/brand-logo/04.png"
+            },
+            {
+                "id": 5,
+                "image": "./img/brand-logo/05.png"
+            }
+        ]
+    },
+    {
+        "pricing": [
+            {
+                "id": 1,
+                "classOption": "pricing-item item-one",
+                "title": "Specilist",
+                "price": "<h2><sup>Hijama</sup></h2><span class='period'> </span>",
+                "excerpt": "We are spcilist lorem ipsum lorem ipsum",
+                "pricingList": [
+                    "Area One",
+                    "Area Two",
+                    "Area Three"
+                ],
+                "btnClassOption": "btn-theme btn-border"
+            },
+            {
+                "id": 2,
+                "classOption": "pricing-item item-one",
+                "title": "Specilist",
+                "price": "<h2><sup>Fasd</sup></h2><span class='period'> </span>",
+                "excerpt": "We are spcilist lorem ipsum lorem ipsum",
+                "pricingList": [
+                    "Area One",
+                    "Area Two",
+                    "Area Three"
+                ],
+                "btnClassOption": "btn-theme btn-border"
+            },
+            {
+                "id": 3,
+                "classOption": "pricing-item item-one",
+                "title": "Specilist",
+                "price": "<h2><sup>Sirodhara</sup></h2><span class='period'> </span>",
+                "excerpt": "We are spcilist lorem ipsum lorem ipsum",
+                "pricingList": [
+                    "Area One",
+                    "Area Two",
+                    "Area Three"
+                ],
+                "btnClassOption": "btn-theme btn-border"
+            },
+            {
+                "id": 4,
+                "classOption": "pricing-item item-one",
+                "title": "Specilist",
+                "price": "<h2><sup>Udwarthanam</sup></h2><span class='period'> </span>",
+                "excerpt": "We are spcilist lorem ipsum lorem ipsum",
+                "pricingList": [
+                    "Area One",
+                    "Area Two",
+                    "Area Three"
+                ],
+                "btnClassOption": "btn-theme btn-border"
+            }
+        ]
+    },
+    {
+        "cases": [
+            {
+                "id": 1,
+                "image": "img/cases/01.jpg",
+                "name": "Natalie Huston",
+                "department": "Teeth Cleaning, High-tech materials"
+            },
+            {
+                "id": 2,
+                "image": "img/cases/02.jpg",
+                "name": "Angela Mayer",
+                "department": "Teeth Cleaning"
+            },
+            {
+                "id": 3,
+                "image": "img/cases/01.jpg",
+                "name": "Natalie Huston",
+                "department": "Teeth Cleaning, High-tech materials"
+            }
+        ]
+    }
+]
