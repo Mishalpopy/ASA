@@ -10,7 +10,7 @@ const SEO = ({ title }) => {
             <meta name="robots" content="noindex, follow" />
             <meta
                 name="description"
-                content="Aca-Clinic"
+                content="ACA CLINIC"
             />
             <meta
                 name="viewport"
