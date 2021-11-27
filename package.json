@@ -1,7 +1,8 @@
 {
   "name": "react-eslint-starter",
   "version": "0.1.0",
-  "private": true,
+  "private": true,.
+  "homepage": "http://Mishalpopy.github.io/ASA",
   "dependencies": {
     "aos": "^2.3.4",
     "disqus-react": "^1.0.11",
